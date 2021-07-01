@@ -24,7 +24,7 @@ theme: jekyll-theme-slate
 
 
 # Directory
-source_dir: source
+source_dir: source/_posts
 public_dir: public
 tag_dir: tags
 archive_dir: archives
